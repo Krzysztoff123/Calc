@@ -27,7 +27,6 @@ public class Main {
 	    if(menu.equals("2"))
 	    {
 	    	FileReader fr = null;
-	    	//String linia = "";	
 	    	/* 
 	    	 * Otwieranie pliku
 	    	 */
